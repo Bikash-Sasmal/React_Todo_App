@@ -1,0 +1,9 @@
+input {
+  width: 50%;
+
+}
+
+.kg-btn {
+  min-width: 90px;
+  padding-bottom: 23px;
+}
